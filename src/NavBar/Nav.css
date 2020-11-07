@@ -1,0 +1,17 @@
+.nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  /*animations*/
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+}
+.nav > img {
+  height: 80px;
+  margin-left: 50px;
+}
+.nav__black {
+  background-color: black;
+  height: 80px;
+}
