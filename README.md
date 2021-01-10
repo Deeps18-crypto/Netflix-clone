@@ -1,12 +1,8 @@
 # Netflix-clone
-The NETFLIX clone is done for learning purpose.
 
-This app has exact functionality of goolge.
+This app has the exact UI of NETFLIX.
 
-This project has two pages such as HOME and SEARCH page.
+The project has list of movies which is listed in the rows.
 
-The app includes REACT-ROUTER to load the page without refresh.
+The list of movies can play the trailer of youtube.
 
-The state of the app is maintained by CONTEXT API.
-
-The app works by getting the REST API by developer.google.com
