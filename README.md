@@ -4,5 +4,5 @@
 
 * The project has list of movies which is listed in the rows.
 
-* The list of movies can play the trailer of youtube.
+* The movies can play their trailer in the app.
 
